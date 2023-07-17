@@ -2,7 +2,7 @@
 ####
 ## This script will setup a H2O GPT from a newly created AWS Ubuntu
 ###
-
+cd ~
 apt update
 apt install gcc -y
 wget https://repo.anaconda.com/miniconda/Miniconda3-py310_23.1.0-1-Linux-x86_64.sh
